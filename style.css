@@ -1,0 +1,58 @@
+
+img{
+    height: 200px;
+    width: 200px;
+    border-color: aqua;
+margin: 40px;
+
+}
+
+
+#mycarouel{
+    background-color: aquamarine;
+}
+#grid{
+    background-color: bisque;
+    align-content: space-around;
+}
+.menu{
+       position: sticky;
+    top: 30px;
+    right: 10px;
+    z-index: 10;
+    color: purple;
+    list-style: none;
+    font-family: 'Lato'sans-serif;
+    cursor: pointer;
+    column-span: all;
+}
+links{
+    float: left;
+    padding-top: 5px;
+    padding-bottom:5px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+    
+}
+.links:hover{
+    background: aliceblue;
+}
+
+body{
+    text-align: center;
+    
+}
+#mycarousel p{
+    font-family: sans-serif;
+    font-size: 30px;
+}
+h1{
+    font-family: cursive ;
+}
+#lam h1{
+    font-family: fantasy; 
+}
+#lam{
+  background-color: cornsilk  
+}
